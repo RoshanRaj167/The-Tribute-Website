@@ -43,6 +43,10 @@
     height: 320px;
 }
 
+.about_section {
+    margin-top: 50px;
+}
+
 .about_section h2 {
     font-size: 70px;
     font-weight: 400;
